@@ -17,6 +17,9 @@ AWS Customer Security Incidents: https://github.com/ramimac/aws-customer-securit
 ## Supply Chain
 Supply Chain Incidents: https://github.com/cncf/tag-security/tree/main/supply-chain-security/compromises
 
+## Critical Infrastructure
+Industrial Cybersecurity Incidents: https://hub.tisafe.com
+
 ## Significant Cyber Incidents - Cyber attacks on government agencies, defense and high tech companies, or economic crimes with losses of more than a million dollars
 
 Center for Strategic and International Studies: https://www.csis.org/programs/strategic-technologies-program/significant-cyber-incidents
