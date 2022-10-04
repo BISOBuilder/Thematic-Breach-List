@@ -20,6 +20,6 @@ Supply Chain Incidents: https://github.com/cncf/tag-security/tree/main/supply-ch
 ## Critical Infrastructure
 Industrial Cybersecurity Incidents: https://hub.tisafe.com
 
-## Significant Cyber Incidents - Cyber attacks on government agencies, defense and high tech companies, or economic crimes with losses of more than a million dollars
+## Significant Cyber Incidents on Government Agencies or Defense and High Tech Companies
 
 Center for Strategic and International Studies: https://www.csis.org/programs/strategic-technologies-program/significant-cyber-incidents
