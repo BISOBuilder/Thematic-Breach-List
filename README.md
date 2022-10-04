@@ -2,8 +2,8 @@
 
 This is a repository of breaches by industry, technology, or other theme designed to make it easier for security professionals to research and stay up to date on the current incident trends.
 
-##Ransomware
-Ransomare Incidents: https://www.ransom-db.com/real-time-updates
+## Ransomware
+Ransomware Incidents: https://www.ransom-db.com/real-time-updates
 
 ## Blockchain and Cryptocurrency
 
