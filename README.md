@@ -4,6 +4,7 @@ This is a repository of breaches by industry, technology, or other theme designe
 
 ## Ransomware
 Ransomware Incidents: https://www.ransom-db.com/real-time-updates
+
 Ransomware Vizualization: https://informationisbeautiful.net/visualizations/ransomware-attacks/
 
 ## Blockchain and Cryptocurrency
@@ -31,4 +32,5 @@ Center for Strategic and International Studies: https://www.csis.org/programs/st
 ## Broad Cyber Incident Reporting
 
 Verizon Data Breach Investigations Report: https://github.com/vz-risk/VCDB
+
 World's Biggest Data Breaches: https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/ and https://docs.google.com/spreadsheets/d/1i0oIJJMRG-7t1GT-mr4smaTTU7988yXVz8nPlwaJ8Xk/edit#gid=2
